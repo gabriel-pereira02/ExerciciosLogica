@@ -1,0 +1,15 @@
+C:\Users\PICHAU\Desktop\Projetos\Functions\Functions\obj\Debug\net7.0\Functions.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\Projetos\Functions\Functions\obj\Debug\net7.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Projetos\Functions\Functions\obj\Debug\net7.0\Functions.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Projetos\Functions\Functions\obj\Debug\net7.0\Functions.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Projetos\Functions\Functions\obj\Debug\net7.0\Functions.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Projetos\Functions\Functions\bin\Debug\net7.0\Functions.exe
+C:\Users\PICHAU\Desktop\Projetos\Functions\Functions\bin\Debug\net7.0\Functions.deps.json
+C:\Users\PICHAU\Desktop\Projetos\Functions\Functions\bin\Debug\net7.0\Functions.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Projetos\Functions\Functions\bin\Debug\net7.0\Functions.dll
+C:\Users\PICHAU\Desktop\Projetos\Functions\Functions\bin\Debug\net7.0\Functions.pdb
+C:\Users\PICHAU\Desktop\Projetos\Functions\Functions\obj\Debug\net7.0\Functions.dll
+C:\Users\PICHAU\Desktop\Projetos\Functions\Functions\obj\Debug\net7.0\refint\Functions.dll
+C:\Users\PICHAU\Desktop\Projetos\Functions\Functions\obj\Debug\net7.0\Functions.pdb
+C:\Users\PICHAU\Desktop\Projetos\Functions\Functions\obj\Debug\net7.0\Functions.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\Projetos\Functions\Functions\obj\Debug\net7.0\ref\Functions.dll
