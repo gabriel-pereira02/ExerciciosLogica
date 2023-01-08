@@ -1,3 +1,4 @@
+using System;
 namespace Ex001{
     class Program{
         static void Main(string[] args){
