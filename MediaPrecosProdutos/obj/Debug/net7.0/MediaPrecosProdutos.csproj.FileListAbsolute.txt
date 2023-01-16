@@ -1,0 +1,15 @@
+C:\Users\PICHAU\Desktop\Logica\MediaPrecosProdutos\bin\Debug\net7.0\MediaPrecosProdutos.exe
+C:\Users\PICHAU\Desktop\Logica\MediaPrecosProdutos\bin\Debug\net7.0\MediaPrecosProdutos.deps.json
+C:\Users\PICHAU\Desktop\Logica\MediaPrecosProdutos\bin\Debug\net7.0\MediaPrecosProdutos.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Logica\MediaPrecosProdutos\bin\Debug\net7.0\MediaPrecosProdutos.dll
+C:\Users\PICHAU\Desktop\Logica\MediaPrecosProdutos\bin\Debug\net7.0\MediaPrecosProdutos.pdb
+C:\Users\PICHAU\Desktop\Logica\MediaPrecosProdutos\obj\Debug\net7.0\MediaPrecosProdutos.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\Logica\MediaPrecosProdutos\obj\Debug\net7.0\MediaPrecosProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Logica\MediaPrecosProdutos\obj\Debug\net7.0\MediaPrecosProdutos.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Logica\MediaPrecosProdutos\obj\Debug\net7.0\MediaPrecosProdutos.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Logica\MediaPrecosProdutos\obj\Debug\net7.0\MediaPrecosProdutos.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Logica\MediaPrecosProdutos\obj\Debug\net7.0\MediaPrecosProdutos.dll
+C:\Users\PICHAU\Desktop\Logica\MediaPrecosProdutos\obj\Debug\net7.0\refint\MediaPrecosProdutos.dll
+C:\Users\PICHAU\Desktop\Logica\MediaPrecosProdutos\obj\Debug\net7.0\MediaPrecosProdutos.pdb
+C:\Users\PICHAU\Desktop\Logica\MediaPrecosProdutos\obj\Debug\net7.0\MediaPrecosProdutos.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\Logica\MediaPrecosProdutos\obj\Debug\net7.0\ref\MediaPrecosProdutos.dll
