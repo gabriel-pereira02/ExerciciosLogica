@@ -1,0 +1,15 @@
+C:\Users\PICHAU\Desktop\Logica\AlturaMedia\bin\Debug\net7.0\AlturaMedia.exe
+C:\Users\PICHAU\Desktop\Logica\AlturaMedia\bin\Debug\net7.0\AlturaMedia.deps.json
+C:\Users\PICHAU\Desktop\Logica\AlturaMedia\bin\Debug\net7.0\AlturaMedia.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Logica\AlturaMedia\bin\Debug\net7.0\AlturaMedia.dll
+C:\Users\PICHAU\Desktop\Logica\AlturaMedia\bin\Debug\net7.0\AlturaMedia.pdb
+C:\Users\PICHAU\Desktop\Logica\AlturaMedia\obj\Debug\net7.0\AlturaMedia.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\Logica\AlturaMedia\obj\Debug\net7.0\AlturaMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Logica\AlturaMedia\obj\Debug\net7.0\AlturaMedia.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Logica\AlturaMedia\obj\Debug\net7.0\AlturaMedia.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Logica\AlturaMedia\obj\Debug\net7.0\AlturaMedia.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Logica\AlturaMedia\obj\Debug\net7.0\AlturaMedia.dll
+C:\Users\PICHAU\Desktop\Logica\AlturaMedia\obj\Debug\net7.0\refint\AlturaMedia.dll
+C:\Users\PICHAU\Desktop\Logica\AlturaMedia\obj\Debug\net7.0\AlturaMedia.pdb
+C:\Users\PICHAU\Desktop\Logica\AlturaMedia\obj\Debug\net7.0\AlturaMedia.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\Logica\AlturaMedia\obj\Debug\net7.0\ref\AlturaMedia.dll
