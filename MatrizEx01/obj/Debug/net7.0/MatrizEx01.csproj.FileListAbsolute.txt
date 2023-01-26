@@ -1,0 +1,15 @@
+C:\Users\PICHAU\Desktop\Repositorios\ExerciciosLogica\MatrizEx01\bin\Debug\net7.0\MatrizEx01.exe
+C:\Users\PICHAU\Desktop\Repositorios\ExerciciosLogica\MatrizEx01\bin\Debug\net7.0\MatrizEx01.deps.json
+C:\Users\PICHAU\Desktop\Repositorios\ExerciciosLogica\MatrizEx01\bin\Debug\net7.0\MatrizEx01.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Repositorios\ExerciciosLogica\MatrizEx01\bin\Debug\net7.0\MatrizEx01.dll
+C:\Users\PICHAU\Desktop\Repositorios\ExerciciosLogica\MatrizEx01\bin\Debug\net7.0\MatrizEx01.pdb
+C:\Users\PICHAU\Desktop\Repositorios\ExerciciosLogica\MatrizEx01\obj\Debug\net7.0\MatrizEx01.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\Repositorios\ExerciciosLogica\MatrizEx01\obj\Debug\net7.0\MatrizEx01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Repositorios\ExerciciosLogica\MatrizEx01\obj\Debug\net7.0\MatrizEx01.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Repositorios\ExerciciosLogica\MatrizEx01\obj\Debug\net7.0\MatrizEx01.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Repositorios\ExerciciosLogica\MatrizEx01\obj\Debug\net7.0\MatrizEx01.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Repositorios\ExerciciosLogica\MatrizEx01\obj\Debug\net7.0\MatrizEx01.dll
+C:\Users\PICHAU\Desktop\Repositorios\ExerciciosLogica\MatrizEx01\obj\Debug\net7.0\refint\MatrizEx01.dll
+C:\Users\PICHAU\Desktop\Repositorios\ExerciciosLogica\MatrizEx01\obj\Debug\net7.0\MatrizEx01.pdb
+C:\Users\PICHAU\Desktop\Repositorios\ExerciciosLogica\MatrizEx01\obj\Debug\net7.0\MatrizEx01.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\Repositorios\ExerciciosLogica\MatrizEx01\obj\Debug\net7.0\ref\MatrizEx01.dll
